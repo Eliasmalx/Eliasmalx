@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Eliasmal Rodríguez!
 
-<!--
-**Eliasmalx/Eliasmalx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desarrollador **Full Stack** graduado de [4Geeks Academy](https://4geeksacademy.com/), con +6 años de experiencia previa en soporte técnico, mantenimiento de sistemas y automatización de procesos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 ¿Qué sé hacer?
+- 🖥️ Frontend: HTML, CSS, Bootstrap, JavaScript, React
+- 🔧 Backend: Python, Flask, SQLAlchemy
+- 🗄️ Bases de datos: PostgreSQL
+- ⚙️ Otras habilidades: Git, GitHub, APIs REST, autenticación de usuarios, debugging, manejo de errores, trabajo en equipo
+
+---
+
+### 🚀 ¿Qué estoy haciendo ahora?
+Estoy subiendo proyectos desde lo más básico hasta el final del bootcamp. Quiero mostrar **cómo ha sido mi evolución** como desarrollador y ayudar a otros que estén comenzando.
+
+📂 *Spoiler:* Mis proyectos es una plataforma tipo Idealista para alquiler de pisos y una para clinicas dentales y laboratorios que compartan una misma base de datos. ¡Pronto lo verás por aquí!
+
+---
+
+### 🛠️ Tecnologías favoritas
+`React` • `Python` • `Flask` • `PostgreSQL` • `SQLAlchemy` • `Bootstrap`
+
+---
+
+### 🤝 ¿Colaboramos?
+Estoy abierto a:
+- Proyectos colaborativos 🧑‍💻
+- Mentoring para quienes están empezando 💡
+- Oportunidades en el mundo tech 🌍
+
+📫 Puedes contactarme en: **eliasmal0228@gmail.com**
+
+---
+
+> “El mejor momento para comenzar a programar fue ayer. El segundo mejor momento es ahora.” 💻
