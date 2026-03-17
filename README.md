@@ -14,11 +14,14 @@
 ---
 
 ### 🚀 ¿Qué estoy haciendo ahora?
-Estoy compartiendo mis proyectos desde los más básicos hasta el final del bootcamp, mostrando **mi evolución como desarrollador** y buscando inspirar a quienes están comenzando.
+Estoy desarrolando una aplicacion llamada Biotsys en un entrenamiento de Igrowker, donde trabajaremos un grupo de personas como si fuera un entordo
+de trabajo real y podre poner en practica lo aprendido. 
+https://www.linkedin.com/company/biotasys
 
 📂 *Spoiler:* Mis proyectos a futuro: 
 - 🏡 Una plataforma tipo Idealista para alquiler de pisos; 
-- 🦷 Una pagina web para clinicas dentales y laboratorios que compartan una misma base de datos.
+- 👨‍💻 Una app de soporte tecnico , donde el usuario puede crear reportes para el departamento tech , y ellos
+  puedan manejarlo de una forma ordenada y por prioridad!.
 ¡Pronto lo verás por aquí!
 
 ---
