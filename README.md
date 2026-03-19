@@ -14,14 +14,16 @@
 ---
 
 ### 🚀 ¿Qué estoy haciendo ahora?
-Estoy desarrolando una aplicacion llamada Biotsys en un entrenamiento de Igrowker, donde trabajaremos un grupo de personas como si fuera un entordo
-de trabajo real y podre poner en practica lo aprendido. 
-https://www.linkedin.com/company/biotasys
+Desarrollamos una aplicación llamada Biotasys en un entrenamiento de Igrowker, donde trabajamos un grupo de personas como si fuera un entorno
+de trabajo real y pudimos poner en practica lo aprendido. 
+- https://www.linkedin.com/company/biotasys
+- Les dejo los repos en pineados
 
 📂 *Spoiler:* Mis proyectos a futuro: 
 - 🏡 Una plataforma tipo Idealista para alquiler de pisos; 
 - 👨‍💻 Una app de soporte tecnico , donde el usuario puede crear reportes para el departamento tech , y ellos
-  puedan manejarlo de una forma ordenada y por prioridad!.
+  puedan manejarlo de una forma ordenada y por prioridad!.**HelpDesk**
+
 ¡Pronto lo verás por aquí!
 
 ---
