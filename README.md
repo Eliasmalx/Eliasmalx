@@ -1,48 +1,53 @@
-# 👋 ¡Hola, soy Eliasmal Rodríguez!
+<div align="center">
 
-🎓 Desarrollador **Full Stack** graduado de [4Geeks Academy](https://4geeksacademy.com/), con +6 años de experiencia previa en soporte técnico, mantenimiento de sistemas y automatización de procesos.
+# 👨‍💻 Eliasmal Rodríguez
+**Backend Developer | Python | APIs REST | PostgreSQL | Docker**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+</div>
+
+## 🚀 Sobre mí
+Desarrollador backend con experiencia en proyectos reales trabajando en equipos multidisciplinarios. Especializado en APIs REST, integraciones de IA en Python y arquitectura de aplicaciones web escalables.
+
+**Recientemente** participé en el desarrollo de una aplicación web en equipo de 15 personas, donde implementé:
+- CRUDs y endpoints REST
+- Backend Python para integración de IA (JSON → resúmenes inteligentes)
+- Colaboración en entorno de producción real
+
+## 🛠️ Stack principal
+### Backend
+Python | FastAPI | Node.js | Express
+### Databases
+PostgreSQL | SQLAlchemy | SQLite
+### DevOps & Tools
+Docker | Render | Vercel | Git | Postman |
+### Frontend (complementario)
+React | Vite | JavaScript | TailwindCSS
+
+
+## ✨ Proyectos destacados
+
+### 🚀 API REST Completa - FastAPI + PostgreSQL
+[![FastAPI](https://img.shields.io/badge/FastAPI_PostgreSQL-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Eliasmalx/HelpDesk)
+**CRUD completo con autenticación, testing y despliegue en Vercel,Render**
+
+### 🤖 Backend IA Python
+[![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/Eliasmalx/i006-biotasys-ai)
+**Procesador JSON → Resúmenes inteligentes | Biotasys**
+
+### 🏗️ Sistema Full Stack
+[![Full Stack](https://img.shields.io/badge/FullStack_Python-000?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/Eliasmalx/QuizBoss)
+**Backend Python + Frontend React | Despliegue production-ready**
+
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasmal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasmal0228@gmail.com)
+
+**Buscando oportunidades como Backend Developer en España** 🚀
 
 ---
-
-### 🧠 ¿Qué sé hacer?
-- 🖥️ Frontend: HTML, CSS, Bootstrap, JavaScript, React
-- 🔧 Backend: Python, Flask, SQLAlchemy
-- 🗄️ Bases de datos: PostgreSQL,MySQL
-- ⚙️ Otras habilidades: Git, GitHub, APIs REST, autenticación de usuarios, debugging, manejo de errores, trabajo en equipo
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
----
-
-### 🚀 ¿Qué estoy haciendo ahora?
-Desarrollamos una aplicación llamada Biotasys en un entrenamiento de Igrowker, donde trabajamos un grupo de personas como si fuera un entorno
-de trabajo real y pudimos poner en practica lo aprendido. 
-- https://www.linkedin.com/company/biotasys
-- Les dejo los repos en pineados
-
-📂 *Spoiler:* Mis proyectos a futuro: 
-- 🏡 Una plataforma tipo Idealista para alquiler de pisos; 
-- 👨‍💻 Una app de soporte tecnico , donde el usuario puede crear reportes para el departamento tech , y ellos
-  puedan manejarlo de una forma ordenada y por prioridad!.**HelpDesk**
-
-¡Pronto lo verás por aquí!
-
----
-
-### 🛠️ Tecnologías favoritas
-`React` • `Python` • `Flask` • `JavaScript` • `CSS` • `Bootstrap`
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasmalx&show_icons=true&locale=en&layout=compact" alt="eliasmalx" /></p>
-
----
-
-### 🤝 ¿Colaboramos?
-Estoy abierto a:
-- Proyectos colaborativos 🧑‍💻
-- Mentoring para quienes están empezando 💡
-- Oportunidades laborales en el mundo tech 🌍💼
-
-📫 Puedes contactarme en: **eliasmal0228@gmail.com**
-
-
----
-
 > “El mejor momento para comenzar a programar fue ayer. El segundo mejor momento es ahora.” 💻
