@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 Sobre mí
-Desarrollador backend con experiencia en proyectos reales trabajando en equipos multidisciplinarios. Especializado en APIs REST, integraciones de IA en Python y arquitectura de aplicaciones web escalables.
+Desarrollador backend con experiencia en proyectos reales trabajando en equipos multidisciplinarios. Especializado en APIs REST, integraciones de IA en Python y arquitectura de aplicaciones web escalables. [![Portafolio](https://img.shields.io/badge/Portafolio-blue)](https://portafolio-rouge-nine-49.vercel.app/)
 
 **Recientemente** participé en el desarrollo de una aplicación web en equipo de 15 personas, donde implementé:
 - CRUDs y endpoints REST
