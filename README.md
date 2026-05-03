@@ -11,7 +11,7 @@
 </div>
 
 ## 🚀 Sobre mí
-Desarrollador backend con experiencia en proyectos reales trabajando en equipos multidisciplinarios. Especializado en APIs REST, integraciones de IA en Python y arquitectura de aplicaciones web escalables. [![Portafolio](https://img.shields.io/badge/Portafolio-blue)](https://portafolio-rouge-nine-49.vercel.app/)
+Desarrollador backend con experiencia en proyectos reales trabajando en equipos multidisciplinarios. Especializado en desarrollo de APIs REST, integraciones de IA en Python y backend para aplicaciones web escalables. [![Portafolio](https://img.shields.io/badge/Portafolio-blue)](https://portafolio-rouge-nine-49.vercel.app/)
 
 **Recientemente** participé en el desarrollo de una aplicación web en equipo de 15 personas, donde implementé:
 - CRUDs y endpoints REST
@@ -31,9 +31,9 @@ React | Vite | JavaScript | TailwindCSS
 
 ## ✨ Proyectos destacados
 
-### 🚀 API REST Completa - FastAPI + PostgreSQL
+### 🚀 HelpDesk API — Sistema de gestión de tickets con autenticación JWT
 [![FastAPI](https://img.shields.io/badge/FastAPI_PostgreSQL-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Eliasmalx/HelpDesk)
-**CRUD completo con autenticación, testing y despliegue en Vercel,Render**
+**CRUD completo con autenticación JWT, testing automatizado y despliegue cloud**
 
 ### 🤖 Backend IA Python
 [![Python AI](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/Eliasmalx/i006-biotasys-ai)
