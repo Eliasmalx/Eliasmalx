@@ -65,11 +65,11 @@ En los últimos proyectos he trabajado en:
 
 # ⭐ Proyectos destacados
 
-## 🚀 EventoTech *(Próximamente)*
+## 🚀 Bon trato *(Próximamente)*
 
-Plataforma para descubrir eventos tecnológicos mediante automatización, crawlers e inteligencia artificial.
+Una aplicación de anuncios clasificados para Bonaire (Países Bajos caribeños): compra, vende y alquila a nivel local.
 
-**Stack:** FastAPI · PostgreSQL · React · Docker · Capacitor
+**Stack:** PostgreSQL · React Native· Expo · Capacitor
 
 ---
 
@@ -89,11 +89,11 @@ Sistema completo de gestión de incidencias con autenticación JWT y arquitectur
 
 ---
 
-## 🎮 QuizBoss
+## 🎟️ EventoTech
 
-Aplicación Full Stack de preguntas y respuestas con integración de servicios externos.
+Plataforma para descubrir eventos tecnológicos mediante automatización, crawlers e inteligencia artificial.
 
-➡️ https://github.com/Eliasmalx/QuizBoss
+➡️ eventotech-web.onrender.com
 
 ---
 
